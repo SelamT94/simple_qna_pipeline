@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+langchain
+transformers
+sqlalchemy
+pandas
+numpy
+scikit-learn
+pytest
+pydantic
+pyyaml
